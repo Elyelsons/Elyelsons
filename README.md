@@ -25,4 +25,6 @@ Sci-Fi & Vida Extraterrestre 👽 | Hackers & Cyberpunk 🕶️
 [![Elyelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=elyelsons)](https://github.com/elyelsons/github-readme-stats)
 ![Elyelsons's GitHub stats](https://github-readme-stats.vercel.app/api?username=elyelsons&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+##Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyelsons&hide_progress=true)
 
