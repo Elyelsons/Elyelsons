@@ -1,16 +1,21 @@
-## Hi there 👋
+🚀 Olá, Mundo! Eu sou Elyelson Silva 👨‍💻
+💡 Tech Geek | Programador Web | Criador de Experiências Digitais
 
-<!--
-**Elyelsons/Elyelsons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Especialidades:
+🎯 Técnico em Redes & Infra 💻 | Manutenção de Sistemas, Software & Hardware
+🎨 Desenvolvedor Front-End (Rumo ao Full Stack Senior 🚀)
+🛠️ Design Gráfico & Motion (Animação & Render 2D/3D | UI/UX)
+📢 Gestão de Mídias Criativas & Tráfego Pago
 
-Here are some ideas to get you started:
+🔥 Pontos Fortes: Liderança | Proatividade | Criatividade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Fato interessante: Sou Geek e Aficcionado
+por Séries de sci-fi e vida Extraterreste;
+
+🔭 🌱 Estou aprendendo mais sobre IA
+
+💬 ⚡ Bora Codar o Futuro juntos!
+
+Inteligência Artificial 🤖 | Entusiasta em Cripto & Blockchain 💰
+
+Sci-Fi & Vida Extraterrestre 👽 | Hackers & Cyberpunk 🕶️
