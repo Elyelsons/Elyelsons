@@ -22,8 +22,5 @@ Sci-Fi & Vida Extraterrestre 👽 | Hackers & Cyberpunk 🕶️
 
 ## Estou aprendendo
 
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Elyelsons&repo=github-readme-stats)](https://github.com/Elyelsons/github-readme-stats)
+[![Elyelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=elyelsons)](https://github.com/elyelsons/github-readme-stats)
 
