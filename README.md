@@ -20,7 +20,9 @@ Inteligência Artificial 🤖 | Entusiasta em Cripto & Blockchain 💰
 
 Sci-Fi & Vida Extraterrestre 👽 | Hackers & Cyberpunk 🕶️
 
-## Estou aprendendo
+## Git Stats
 
 [![Elyelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=elyelsons)](https://github.com/elyelsons/github-readme-stats)
+![Elyelsons's GitHub stats](https://github-readme-stats.vercel.app/api?username=elyelsons&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
