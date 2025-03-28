@@ -29,3 +29,7 @@ Sci-Fi & Vida Extraterrestre 👽 | Hackers & Cyberpunk 🕶️
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyelsons&hide_progress=true)
 
+## Harlok's WakaTime stats
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/elyelsons/github-readme-stats)
+
