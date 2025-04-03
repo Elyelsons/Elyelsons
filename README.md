@@ -39,7 +39,7 @@ Me chame — e prepare o café. ☕🚀"<br>
 📩 Entre em Contato: <br>
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/elyshow) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/1carabakana) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wumboraleyshow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elyshow) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ElyshowOfficial) 
 
-# 💻 Tech Stack:<br>-
+# 💻 Tech Stack:<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -78,14 +78,6 @@ Desenvolver interfaces que nem o computador da Enterprise 1701-D.
 Debater se os Ferengi seriam bons em criptomoedas.
 Criar soluções em IA mais avançadas que o Data (mas sem o chip emocional).
 PS: Se você entendeu todas as referências, já somos amigos. 🖖
-<!-- 
-   </div> 
-  👀 Visitantes 👉
-  </br>
-  <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Elyelsons/count.svg"/></p>
-  <div> -->
-<!--   ![](https://komarev.com/ghpvc/?username=ElyelsonsL&color=blue&style=flat) -->
-<!--</div> -->
 
 <!-- PFeito com <3 por Elyelson -->
 
