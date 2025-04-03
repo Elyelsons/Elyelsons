@@ -3,7 +3,8 @@
 
 🚀 Olá, Mundo! Eu sou Elyelson Silva 👨‍💻<br>"Engenheiro de Sistemas de Dia, <br> Explorador da Galáxia Digital à Noite"<br>
 💡 Tech Geek
- <br>|Programador Web  <br> Criador de Experiências Digitais
+<br>|Programador Web  <br> 
+Criador de Experiências Digitais
 Programador front-end apaixonado por transformar ideias em experiências digitais tão intuitivas quanto um painel da USS Enterprise.
 <br> Desde 2015, debugo códigos como quem desvenda os mistérios da Matrix e lidero projetos com a proatividade de um capitão da Frota Estelar.
 
@@ -39,7 +40,6 @@ Me chame — e prepare o café. ☕🚀"<br>
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/elyshow) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/1carabakana) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wumboraleyshow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elyshow) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ElyshowOfficial) 
 
 # TECHs
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -62,13 +62,13 @@ Me chame — e prepare o café. ☕🚀"<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elyelsons&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Elyelsonsilva&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Elyelsons&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Elyelsonsilva&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Elyelsons&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Elyelsonsilva&icon=5&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Elyelsonsicon=5&color=11)](https://visitcount.itsvg.in)
   
  [![Elyelsons GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElyelsonsL&layout=compact&langs_count=20&theme=merko)](https://github.com/AndreMouraL/github-readme-stats)
 
@@ -90,5 +90,3 @@ PS: Se você entendeu todas as referências, já somos amigos. 🖖
 <!-- PFeito com <3 por Elyelson -->
 
 
-
-<!-- PFeito com <3 por Elyelson -->
