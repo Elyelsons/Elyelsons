@@ -1,43 +1,44 @@
 # 💫 Hey 👋 What's up?:
 # 🖥️ Sobre Mim
 
-🚀 Olá, Mundo! Eu sou Elyelson Silva 👨‍💻<br>"Engenheiro de Sistemas de Dia, <br>-Explorador da Galáxia Digital à Noite"<br>
-💡 Tech Geek | <br>-Programador Web | <br>- Criador de Experiências Digitais
-Programador front-end apaixonado por transformar ideias em experiências digitais tão intuitivas quanto um painel da USS Enterprise.<br>- Desde 2015, debugo códigos como quem desvenda os mistérios da Matrix e lidero projetos com a proatividade de um capitão da Frota Estelar.
+🚀 Olá, Mundo! Eu sou Elyelson Silva 👨‍💻<br>"Engenheiro de Sistemas de Dia, <br> Explorador da Galáxia Digital à Noite"<br>
+💡 Tech Geek
+ <br>|Programador Web  <br> Criador de Experiências Digitais
+Programador front-end apaixonado por transformar ideias em experiências digitais tão intuitivas quanto um painel da USS Enterprise.
+<br> Desde 2015, debugo códigos como quem desvenda os mistérios da Matrix e lidero projetos com a proatividade de um capitão da Frota Estelar.
 
-🔧 Habilidades:<br>-<br>-
+# 🔧 Habilidades:<br>
 🎯 Técnico em Redes & Infra 💻 |Redes & Infra: Configuração de servidores mais confiável que o "Energize!" do Scotty.<br>
 🎨 Desenvolvedor Front-End Front-End: HTML5, CSS3, JavaScript (React) — interfaces mais suaves que um vôo em dobra espacial. (Rumo ao Infinito🚀)<br>
 🛠️ Design Gráfico: Transformo pixels em arte, como um Picard negociando com alienígenas.(Animação & Render 2D/3D | UI/UX)<br>
 📢 IA & Cripto: Explorando o futuro da blockchain e inteligência artificial (sim, estou pronto para o século 32).<br>
-Redes & Infra: Configuração de servidores mais confiável que o "Energize!" do Scotty.<br>-
+Redes & Infra: Configuração de servidores mais confiável que o "Energize!" do Scotty.<br>
 
 #🔥 Soft Skills:<br>- Liderança <br>-| Proatividade |<br>- Criatividade e debates sobre Star Trek vs. The Expanse no cafézinho.
 
-💡 Apaixonado por: <br>-Inteligência Artificial 🤖 |<br>- Entusiasta em Cripto & Blockchain 💰<br>-
-Sci-Fi & Vida Extraterrestre 👽 |<br>- Hackers & Cyberpunk 🕶️
+💡 Apaixonado por: <br>-Inteligência Artificial 🤖 |<br>- Entusiasta em Cripto & Blockchain 💰<br>
+Sci-Fi & Vida Extraterrestre 👽 |<br> Hackers & Cyberpunk 🕶️
 
 🌌 Interesses & Projetos Paralelos <br>-
-Sci-Fi Maníaco: Séries, filmes e livros (sim, Star Trek é a melhor franquia — aceito desafios).<br>-
-IA + Blockchain: Pesquisando como os Borgs se dariam com o Bitcoin (spoiler: não seriam assimilados ).<br>-
-Cyberpunk & Tech: Fã de hackers, realidade virtual e debates sobre ética na IA.<br>-
+IA + Blockchain: Pesquisando como os Borgs se dariam com o Bitcoin (spoiler: não seriam assimilados ).<br>
+Cyberpunk & Tech: Fã de hackers, realidade virtual e debates sobre ética na IA.<br>
 
-#🛠️ Experiência Profissional<br>-
-Engenheiro de Sistemas @ IADVH (Atual)<br>-
-Mantenho servidores estáveis como Geordi La Forge mantém o núcleo de warp.<br>-
-Otimizo redes e infraestrutura com a precisão de um andróide da série Next Generation.<br>-
-Dev Front-End Freelancer<br>-
-Crio sites e apps que até o Q da Continuum se impressionaria.<br>-
-UI/UX design inspirado nos holodecks: imersivo e sem bugs (ou quase).<br>-
+# 🛠️ Experiência Profissional<br>
+Engenheiro de Sistemas @ IADVH (Atual)<br>
+Mantenho servidores estáveis como Geordi La Forge mantém o núcleo de warp.<br>
+Otimizo redes e infraestrutura com a precisão de um andróide da série Next Generation.<br>
+Dev Front-End Freelancer<br>
+Crio sites e apps que até o Q da Continuum se impressionaria.<br>
+UI/UX design inspirado nos holodecks: imersivo e sem bugs (ou quase).<br>
 
 #🌐 Socials:
-"Quer codar o futuro comigo?"<br>-
-"Projetos onde nenhum dev jamais esteve? Talks sobre IA ou os mistérios do universo?<br>-
-Me chame — e prepare o café. ☕🚀"<br>-
-📩 Entre em Contato: <br>-<br>-
+"Quer codar o futuro comigo?"<br>
+"Projetos onde nenhum dev jamais esteve? Talks sobre IA ou os mistérios do universo?<br>
+Me chame — e prepare o café. ☕🚀"<br>
+📩 Entre em Contato: <br>
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/elyshow) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/1carabakana) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wumboraleyshow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elyshow) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ElyshowOfficial) 
 
-### TECHs
+# TECHs
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -59,27 +60,17 @@ Me chame — e prepare o café. ☕🚀"<br>-
 ![](https://github-readme-stats.vercel.app/api?username=Elyelsons&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Elyelsons&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elyelsons&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-_______________________________________________________________________________________________________________________________________________________________________
 
-<!--<div>
-<a href="https://github.com/Elyelsons">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElyelsonsL&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-[![ Andre GitHub stats ](https://github-readme-stats.vercel.app/api?username=ElyelsonsL&show_icons=true&theme=dracula&count_private=true)
--->
-<!--![ Elyelson GitHub stats ](https://github-readme-stats.vercel.app/api?username=ElyelsonsL&show_icons=true&theme=merko&include_all_commits=true&count_private=true)-->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Elyelsonsilva&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<!--##-->
-  
-  PAINEL DE MONITORAMENTO ESTATÍSTICO DE LINGUAGENS :
-  <!--PAINEL DE MONITORAMENTO DE LINGUAGENS (EM ANDAMENTO):-->
-<!--  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyelsonsL&layout=compact&langs_count=20&theme=merko"/></div>
-  -->
-  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Elyelsonsilva&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Elyelsonsilva&icon=5&color=11)](https://visitcount.itsvg.in)
   
  [![Elyelsons GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElyelsonsL&layout=compact&langs_count=20&theme=merko)](https://github.com/AndreMouraL/github-readme-stats)
-
-
 
 🎯Gostou!? Me chame pra tomar um Cafezinho!
 Contrate-me para:
@@ -87,5 +78,17 @@ Desenvolver interfaces que nem o computador da Enterprise 1701-D.
 Debater se os Ferengi seriam bons em criptomoedas.
 Criar soluções em IA mais avançadas que o Data (mas sem o chip emocional).
 PS: Se você entendeu todas as referências, já somos amigos. 🖖
+<!-- 
+   </div> 
+  👀 Visitantes 👉
+  </br>
+  <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Elyelsons/count.svg"/></p>
+  <div> -->
+<!--   ![](https://komarev.com/ghpvc/?username=ElyelsonsL&color=blue&style=flat) -->
+<!--</div> -->
+
+<!-- PFeito com <3 por Elyelson -->
+
+
 
 <!-- PFeito com <3 por Elyelson -->
