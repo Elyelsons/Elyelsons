@@ -1,7 +1,7 @@
 # 💫 Hey 👋 What's up?:
 # 🖥️ Sobre Mim
 
-🚀 Olá, Mundo! Eu sou Elyelson Silva 👨‍💻<br>-"Engenheiro de Sistemas de Dia, <br>-Explorador da Galáxia Digital à Noite"<br>-
+🚀 Olá, Mundo! Eu sou Elyelson Silva 👨‍💻<br>-"Engenheiro de Sistemas de Dia, <br>-Explorador da Galáxia Digital à Noite"<br>
 💡 Tech Geek | <br>-Programador Web | <br>- Criador de Experiências Digitais
 Programador front-end apaixonado por transformar ideias em experiências digitais tão intuitivas quanto um painel da USS Enterprise.<br>- Desde 2015, debugo códigos como quem desvenda os mistérios da Matrix e lidero projetos com a proatividade de um capitão da Frota Estelar.
 
