@@ -66,8 +66,6 @@ UI/UX design inspirado nos holodecks: imersivo e sem bugs (ou quase).<br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Elyelsons&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-![](https://visitcount.itsvg.in/api?id=Elyelsonsicon=5&color=11)](https://visitcount.itsvg.in)
   
 "Quer codar o futuro comigo?"<br>
 "Projetos onde nenhum dev jamais esteve? Talks sobre IA ou os mistérios do universo?<br>
