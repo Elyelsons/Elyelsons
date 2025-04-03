@@ -67,10 +67,10 @@ Me chame — e prepare o café. ☕🚀"<br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Elyelsons&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Elyelsonsicon=5&color=11)](https://visitcount.itsvg.in)
   
- [![Elyelsons GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElyelsonsL&layout=compact&langs_count=20&theme=merko)](https://github.com/AndreMouraL/github-readme-stats)
+ [![Elyelsons GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElyelsonsL&layout=compact&langs_count=20&theme=merko)](https://github.com/Elyelsons/github-readme-stats)
 
 🎯Gostou!? Me chame pra tomar um Cafezinho!
 Contrate-me para:
