@@ -1,8 +1,8 @@
 # 💫 Hey 👋 What's up?:
 # 🖥️ Sobre Mim
 
-"Engenheiro de Sistemas de Dia, Explorador da Galáxia Digital à Noite"
 🚀 Olá, Mundo! Eu sou Elyelson Silva 👨‍💻
+"Engenheiro de Sistemas de Dia, Explorador da Galáxia Digital à Noite"
 💡 Tech Geek | Programador Web | Criador de Experiências Digitais
 Programador front-end apaixonado por transformar ideias em experiências digitais tão intuitivas quanto um painel da USS Enterprise. Desde 2018, debugo códigos como quem desvenda os mistérios da Matrix e lidero projetos com a proatividade de um capitão da Frota Estelar.
 
@@ -66,7 +66,7 @@ Me chame — e prepare o café. ☕🚀"
 _______________________________________________________________________________________________________________________________________________________________________
 
 <!--<div>
-<a href="https://github.com/AndreMouraL">
+<a href="https://github.com/Elyelsons">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElyelsonsL&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 [![ Andre GitHub stats ](https://github-readme-stats.vercel.app/api?username=ElyelsonsL&show_icons=true&theme=dracula&count_private=true)
 -->
