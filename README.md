@@ -6,10 +6,10 @@
 Programador front-end apaixonado por transformar ideias em experiências digitais tão intuitivas quanto um painel da USS Enterprise.<br>- Desde 2015, debugo códigos como quem desvenda os mistérios da Matrix e lidero projetos com a proatividade de um capitão da Frota Estelar.
 
 🔧 Habilidades:<br>-<br>-
-🎯 Técnico em Redes & Infra 💻 |Redes & Infra: Configuração de servidores mais confiável que o "Energize!" do Scotty.<br>-
-🎨 Desenvolvedor Front-End Front-End: HTML5, CSS3, JavaScript (React) — interfaces mais suaves que um vôo em dobra espacial. (Rumo ao Infinito🚀)<br>-
-🛠️ Design Gráfico: Transformo pixels em arte, como um Picard negociando com alienígenas.(Animação & Render 2D/3D | UI/UX)<br>-
-📢 IA & Cripto: Explorando o futuro da blockchain e inteligência artificial (sim, estou pronto para o século 32).<br>-
+🎯 Técnico em Redes & Infra 💻 |Redes & Infra: Configuração de servidores mais confiável que o "Energize!" do Scotty.<br>
+🎨 Desenvolvedor Front-End Front-End: HTML5, CSS3, JavaScript (React) — interfaces mais suaves que um vôo em dobra espacial. (Rumo ao Infinito🚀)<br>
+🛠️ Design Gráfico: Transformo pixels em arte, como um Picard negociando com alienígenas.(Animação & Render 2D/3D | UI/UX)<br>
+📢 IA & Cripto: Explorando o futuro da blockchain e inteligência artificial (sim, estou pronto para o século 32).<br>
 Redes & Infra: Configuração de servidores mais confiável que o "Energize!" do Scotty.<br>-
 
 #🔥 Soft Skills:<br>- Liderança <br>-| Proatividade |<br>- Criatividade e debates sobre Star Trek vs. The Expanse no cafézinho.
