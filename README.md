@@ -15,9 +15,7 @@ Programador front-end apaixonado por transformar ideias em experiências digitai
 📢 IA & Cripto: Explorando o futuro da blockchain e inteligência artificial (sim, estou pronto para o século 32).<br>
 Redes & Infra: Configuração de servidores mais confiável que o "Energize!" do Scotty.<br>
 
-# 🔥 Soft Skills: <br>
-
-<h2 style="color: #ba6771;">Skills 🚀 <img
+<h2 style="color: #ba6771;">🔥Skills 🚀 <img
 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png"
 alt="Exploding Head" width="40" height="40" />   </h2>
  Liderança| Proatividade | Criatividade e debates sobre Star Trek vs. The Expanse no cafézinho.
@@ -46,6 +44,20 @@ UI/UX design inspirado nos holodecks: imersivo e sem bugs (ou quase).<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+ <p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python3">
+  </a>
+  <a href="https://www.djangoproject.com/">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  </a>
+  <a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  </a>
+    <a href="https://golang.org/">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+</a>
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
