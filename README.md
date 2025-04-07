@@ -16,6 +16,10 @@ Programador front-end apaixonado por transformar ideias em experiências digitai
 Redes & Infra: Configuração de servidores mais confiável que o "Energize!" do Scotty.<br>
 
 # 🔥 Soft Skills: <br>
+
+<h2 style="color: #ba6771;">Skills 🚀 <img
+src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png"
+alt="Exploding Head" width="40" height="40" />   </h2>
  Liderança| Proatividade | Criatividade e debates sobre Star Trek vs. The Expanse no cafézinho.
 
 💡 Apaixonado por: <br>-Inteligência Artificial 🤖 |<br>- Entusiasta em Cripto & Blockchain 💰<br>
