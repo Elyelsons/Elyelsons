@@ -63,17 +63,46 @@ Liderança <br> Proatividade <br> Criatividade e debates sobre Star Trek vs. The
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/elyshow) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/1carabakana) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wumboraleyshow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elyshow) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ElyshowOfficial)
 
-# 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elyelsons&show_icons=true&theme=transparent)
+<h3> 🧑‍🔬&nbsp; Meu progresso na Programação </h3>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Elyelsons&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elyelsons&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.github.com/Elyelsons">
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=Elyelsons&theme=dracula&show_icons=true"/>
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Elyelsons&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://www.github.com/Elyelsons">
+    <img src="https://github-readme-stats.vercel.app/api?username=Elyelsons&layout=compact&theme=dracula"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.github.com/Elyelsons">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elyelsons&layout=compact&theme=dracula&langs_count=10&hide=jupyter%20notebook,Python,HTML"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.github.com/Elyelsons">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elyelsons&theme=dracula"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.github.com/Elyelsons">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Elyelsons&theme=dracula"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elyelsons&theme=dracula"/>
+  </a>
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Elyelsons&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+## 🏆 Meus Troféus do GitHub
+![](https://github-profile-trophy.vercel.app/?username=Elyelsons&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 <!-- PFeito com <3 por Elyelson -->
