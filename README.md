@@ -1,6 +1,6 @@
 # 💫 Oi Mundo,👋 Eu sou Elyelson Silva  👨‍💻:
 
-<a href="https://ibb.co/qYBRfBXq"><img src="[https://i.ibb.co/Jjnz4n06/Chat-GPT-Image-8-de-abr-de-2025-10-06-53.png](https://ibb.co/1DZpYjN)" alt="Chat-GPT-Image-8-de-abr-de-2025-10-06-53" border="0"></a><br /><a target='_blank' href='https://pt-br.imgbb.com/'></a><br />
+<a href="https://ibb.co/1DZpYjN"><img src="https://i.ibb.co/46WDw3L/Elielson-Santos-no-Universo-Digital-1.png" alt="Elielson-Santos-no-Universo-Digital-1" border="0"></a>
 Bora codar o futuro comigo?<br>
 Projetos onde nenhum dev jamais esteve? <br>
 Talks sobre IA ou os mistérios do universo?<br>
