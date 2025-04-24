@@ -1,6 +1,6 @@
 # 💫 Oi Mundo,👋 Eu sou Elyelson Silva  👨‍💻:
 
-<a href="https://ibb.co/1DZpYjN"><img src="https://i.ibb.co/46WDw3L/Elielson-Santos-no-Universo-Digital-1.png" alt="Elielson-Santos-no-Universo-Digital-1" border="0"></a>
+<a href="https://ibb.co/1DZpYjN"><img src="https://i.ibb.co/46WDw3L/Elielson-Santos-no-Universo-Digital-1.png" alt="Elielson-Santos-no-Universo-Digital-1" border="0"></a> <br> </br>
 Bora codar o futuro comigo?<br>
 Projetos onde nenhum dev jamais esteve? <br>
 Talks sobre IA ou os mistérios do universo?<br>
